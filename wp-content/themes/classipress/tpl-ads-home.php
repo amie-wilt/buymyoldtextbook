@@ -14,30 +14,6 @@
 			<!-- left block -->
 			<div class="content_left">
 
-
-				<?php if ( $cp_options->home_layout == 'directory' ) { ?>
-
-					<div class="shadowblock_out">
-
-						<div class="shadowblock">
-
-							<h2 class="dotted"><?php _e( 'Ad Categories', APP_TD ); ?></h2>
-
-							<div id="directory" class="directory <?php cp_display_style( 'dir_cols' ); ?>">
-
-								<?php echo cp_create_categories_list( 'dir' ); ?>
-
-								<div class="clr"></div>
-
-							</div><!--/directory-->
-
-						</div><!-- /shadowblock -->
-
-					</div><!-- /shadowblock_out -->
-
-				<?php } ?>
-
-
 				<div class="tabcontrol">
 
 					<ul class="tabnavig">
