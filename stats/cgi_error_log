@@ -12125,3 +12125,64 @@ WordPress database err
 WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query SELECT * FROM wp_usermeta WHERE umeta_id = 241521 made by wp_delete_user, delete_metadata_by_mid, get_metadata_by_mid
 WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query SELECT * FROM wp_usermeta WHERE umeta_id = 241522 made by wp_delete_user, delete_metadata_by_mid, get_metadata_by_mid
 WordPress database error User 'wrd2DcX
+20150121T201538: www.buymyoldtextbook.com/index.php
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query SELECT FOUND_ROWS() made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include('/themes/classipress/functions.php'), require_once('/themes/classipress/includes/theme-functions.php'), CP_User_Dashboard::get_id, APP_View_Page::_get_id, WP_Query->__construct, WP_Query->query, WP_Query->get_posts, WP_Query->set_fou
+20150121T201538: www.buymyoldtextbook.com/index.php
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query SELECT FOUND_ROWS() made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include('/themes/classipress/functions.php'), require_once('/themes/classipress/includes/theme-functions.php'), CP_User_Dashboard::get_id, APP_View_Page::_get_id, WP_Query->__construct, WP_Query->query, WP_Query->get_posts, WP_Query->set_fou
+20150121T201538: www.buymyoldtextbook.com/wp-admin/admin-ajax.php
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query update wp_users set user_status = 1 where ID = 3693 made by do_action('wp_ajax_wangguard_ajax_handler'), call_user_func_array, wangguard_ajax_callback
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query select ID from wp_users where ID = 3693 made by do_action('wp_ajax_wangguard_ajax_handler'), call_user_func_array, wangguar
+20150121T201539: www.buymyoldtextbook.com/wp-admin/admin-ajax.php
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query update wp_users set user_status = 1 where ID = 3876 made by do_action('wp_ajax_wangguard_ajax_handler'), call_user_func_array, wangguard_ajax_callback
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query select ID from wp_users where ID = 3876 made by do_action('wp_ajax_wangguard_ajax_handler'), call_user_func_array, wangguar
+20150121T201539: www.buymyoldtextbook.com/wp-admin/admin-ajax.php
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query update wp_users set user_status = 1 where ID = 14159 made by do_action('wp_ajax_wangguard_ajax_handler'), call_user_func_array, wangguard_ajax_callback
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query select ID from wp_users where ID = 14159 made by do_action('wp_ajax_wangguard_ajax_handler'), call_user_func_array, wanggu
+20150121T201539: www.buymyoldtextbook.com/wp-admin/admin-ajax.php
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query update wp_users set user_status = 1 where ID = 22252 made by do_action('wp_ajax_wangguard_ajax_handler'), call_user_func_array, wangguard_ajax_callback
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query select ID from wp_users where ID = 22252 made by do_action('wp_ajax_wangguard_ajax_handler'), call_user_func_array, wanggu
+20150121T201539: www.buymyoldtextbook.com/wp-admin/admin-ajax.php
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query update wp_users set user_status = 1 where ID = 7520 made by do_action('wp_ajax_wangguard_ajax_handler'), call_user_func_array, wangguard_ajax_callback
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query select ID from wp_users where ID = 7520 made by do_action('wp_ajax_wangguard_ajax_handler'), call_user_func_array, wangguar
+20150121T201539: www.buymyoldtextbook.com/wp-admin/admin-ajax.php
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query update wp_users set user_status = 1 where ID = 15462 made by do_action('wp_ajax_wangguard_ajax_handler'), call_user_func_array, wangguard_ajax_callback
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query select ID from wp_users where ID = 15462 made by do_action('wp_ajax_wangguard_ajax_handler'), call_user_func_array, wanggu
+20150121T201539: www.buymyoldtextbook.com/wp-admin/admin-ajax.php
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query SELECT FOUND_ROWS() made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include('/themes/classipress/functions.php'), require_once('/themes/classipress/includes/theme-functions.php'), CP_User_Dashboard::get_id, APP_View_Page::_get_id, WP_Query->__construct, WP_Query->query, WP_Query->get_posts, WP_Query->set_found_posts
+WordPress database err
+20150121T201539: www.buymyoldtextbook.com/wp-admin/admin-ajax.php
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query SELECT FOUND_ROWS() made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include('/themes/classipress/functions.php'), require_once('/themes/classipress/includes/theme-functions.php'), CP_User_Dashboard::get_id, APP_View_Page::_get_id, WP_Query->__construct, WP_Query->query, WP_Query->get_posts, WP_Query->set_found_posts
+WordPress database err
+20150121T201541: www.buymyoldtextbook.com/wp-admin/install.php
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query SHOW TABLES LIKE 'wp\\_users' made by display_setup_form
+
+20150121T201541: www.buymyoldtextbook.com/wp-admin/install.php
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query SHOW TABLES LIKE 'wp\\_users' made by display_setup_form
+
+20150121T201542: www.buymyoldtextbook.com/wp-admin/install.php
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query SHOW TABLES LIKE 'wp\\_users' made by display_setup_form
+
+20150121T201542: www.buymyoldtextbook.com/wp-admin/install.php
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query SHOW TABLES LIKE 'wp\\_users' made by display_setup_form
+
+20150121T201542: www.buymyoldtextbook.com/wp-admin/install.php
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query SHOW TABLES LIKE 'wp\\_users' made by display_setup_form
+
+20150121T201545: www.buymyoldtextbook.com/wp-admin/install.php
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query SHOW TABLES LIKE 'wp\\_users' made by display_setup_form
+
+20150121T201547: www.buymyoldtextbook.com/wp-admin/install.php
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query SHOW TABLES LIKE 'wp\\_users' made by display_setup_form
+
+20150121T201547: www.buymyoldtextbook.com/wp-admin/install.php
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query SHOW TABLES LIKE 'wp\\_users' made by display_setup_form
+
+20150121T201547: www.buymyoldtextbook.com/wp-admin/install.php
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query SHOW TABLES LIKE 'wp\\_users' made by display_setup_form
+
+20150121T201548: www.buymyoldtextbook.com/wp-admin/install.php
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query SHOW TABLES LIKE 'wp\\_users' made by display_setup_form
+
+20150121T201548: www.buymyoldtextbook.com/wp-admin/install.php
+WordPress database error User 'wrd2DcXtLDt' has exceeded the 'max_questions' resource (current value: 75000) for query SHOW TABLES LIKE 'wp\\_users' made by display_setup_form
+
