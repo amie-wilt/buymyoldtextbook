@@ -38,6 +38,8 @@ if ( is_page_template( 'tpl-ads-home.php' ) || is_search() || is_404() || is_tax
 
 			<div class="searchblock">
 
+				<p class="buy-book-p">Buy A Book</p>
+
 				<form action="<?php echo home_url( '/' ); ?>" method="get" id="searchform" class="form_search">
 
 					<div class="searchfield">

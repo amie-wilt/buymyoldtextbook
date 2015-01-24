@@ -306,6 +306,7 @@ div#adv_categories .first {border-left:none;}
 .tinynav { width:50%; margin:12px 2%; display:none; float:left; font-size:16px; color:#666666; }
 
 /* search bar */
+.buy-book-p{font-weight: bold; font-size: 18px;}
 #search-bar{margin:0 auto;position:relative;top:0px;width:940px;}
 .searchblock_out{border-left:1px solid #BBBBBB;border-right:1px solid #BBBBBB;border-bottom:1px solid #BBBBBB;margin:0 0 10px;-moz-border-radius:0 0 6px 6px;-khtml-border-radius: 0 0 6px 6px; -webkit-border-radius: 0 0 6px 6px; border-radius: 0 0 6px 6px;}
 .searchblock {background:url("images/block_topbg.gif") repeat-x scroll center top #FFFFFF;border-left:1px solid #FFFFFF;	border-right:1px solid #FFFFFF;border-bottom:1px solid #FFFFFF;padding:15px;min-height:40px;-moz-border-radius:0 0 6px 6px;-khtml-border-radius: 0 0 6px 6px; -webkit-border-radius: 0 0 6px 6px; border-radius: 0 0 6px 6px;}
