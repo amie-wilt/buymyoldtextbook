@@ -9,40 +9,7 @@
 		$display_user_name = cp_get_user_name();
 ?>
 
-		<div id="welcome_widget" class="shadowblock_out">
-
-			<div class="shadowblock">
-
-				<?php if ( ! is_user_logged_in() ) { ?>
-
-					<?php cp_display_message( 'welcome' ); ?>
-					<a href="<?php echo appthemes_get_registration_url(); ?>" class="mbtn btn_orange"><?php _e( 'Join Now!', APP_TD ); ?></a>
-
-				<?php } else { ?>
-
-					<div class="avatar"><?php appthemes_get_profile_pic( $current_user->ID, $current_user->user_email, 60 ); ?></div>
-
-					<div class="user">
-
-						<p class="welcome-back"><?php _e( 'Welcome back,', APP_TD ); ?> <strong><?php echo $display_user_name; ?></strong>.</p>
-						<p class="last-login"><?php _e( 'You last logged in at:', APP_TD ); ?> <?php echo appthemes_get_last_login( $current_user->ID ); ?></p>
-						<p><?php _e( 'Manage your ads or edit your profile from your personalized dashboard.', APP_TD ); ?></p>
-
-						<div class="pad5"></div>
-
-						<a href="<?php echo CP_DASHBOARD_URL; ?>" class="mbtn btn_orange"><?php _e( 'Manage Ads', APP_TD ); ?></a>&nbsp;&nbsp;&nbsp;<a href="<?php echo CP_PROFILE_URL; ?>" class="mbtn btn_orange"><?php _e( 'Edit Profile', APP_TD ); ?></a>
-
-						<div class="pad5"></div>
-
-						<div class="clr"></div>
-
-					</div><!-- /user -->
-
-				<?php } ?>
-
-			</div><!-- /shadowblock -->
-
-		</div><!-- /shadowblock_out -->
+git
 
 	<?php } ?>
 
