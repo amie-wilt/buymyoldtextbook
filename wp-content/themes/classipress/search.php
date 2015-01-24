@@ -1,6 +1,6 @@
 <?php
 	$searchTxt = esc_attr( appthemes_filter( get_search_query() ) );
-	if ( $searchTxt ==  __( 'What are you looking for?', APP_TD ) )
+	if ( $searchTxt ==  __( 'Enter ISBN # Of The Book You Want', APP_TD ) )
 		$searchTxt = '*';
 ?>
 

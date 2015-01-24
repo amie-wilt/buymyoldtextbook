@@ -188,7 +188,7 @@ msgid "RSS Feed"
 msgstr ""
 
 #: header.php:72
-msgid "Post an Ad"
+msgid "Sell Your Book"
 msgstr ""
 
 #: loop.php:40
@@ -219,7 +219,7 @@ msgstr ""
 #: search.php:3 includes/theme-functions.php:330
 #: includes/theme-functions.php:1871 includes/theme-searchbar.php:45
 #: includes/theme-widgets.php:125
-msgid "What are you looking for?"
+msgid "Enter ISBN # Of The Book You Want"
 msgstr ""
 
 #: search.php:26

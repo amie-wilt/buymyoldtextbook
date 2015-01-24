@@ -122,7 +122,7 @@ function cp_ad_search_widget() {
 
 		<form action="<?php echo home_url( '/' ); ?>" method="get" id="searchform" class="form_search">
 
-			<input name="s" type="text" id="s" class="editbox_search" <?php if(get_search_query()) { echo 'value="'.trim(strip_tags(esc_attr(get_search_query()))).'"'; } else { ?> value="<?php _e( 'What are you looking for?', APP_TD ); ?>" onfocus="if (this.value == '<?php _e( 'What are you looking for?', APP_TD ); ?>') {this.value = '';}" onblur="if (this.value == '') {this.value = '<?php _e( 'What are you looking for?', APP_TD ); ?>';}" <?php } ?> />
+			<input name="s" type="text" id="s" class="editbox_search" <?php if(get_search_query()) { echo 'value="'.trim(strip_tags(esc_attr(get_search_query()))).'"'; } else { ?> value="<?php _e( 'Enter ISBN # Of The Book You Want', APP_TD ); ?>" onfocus="if (this.value == '<?php _e( 'Enter ISBN # Of The Book You Want', APP_TD ); ?>') {this.value = '';}" onblur="if (this.value == '') {this.value = '<?php _e( 'Enter ISBN # Of The Book You Want', APP_TD ); ?>';}" <?php } ?> />
 
 			<?php wp_dropdown_categories( $args ); ?>
 			<div class="pad5"></div>

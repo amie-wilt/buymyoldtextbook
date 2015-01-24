@@ -42,7 +42,7 @@ if ( is_page_template( 'tpl-ads-home.php' ) || is_search() || is_404() || is_tax
 
 					<div class="searchfield">
 
-						<input name="s" type="text" id="s" tabindex="1" class="editbox_search" style="<?php cp_display_style( 'search_field_width' ); ?>" <?php if ( get_search_query() ) { echo 'value="'.trim(strip_tags(esc_attr(get_search_query()))).'"'; } else { ?> value="<?php _e( 'What are you looking for?', APP_TD ); ?>" onfocus="if (this.value == '<?php _e( 'What are you looking for?', APP_TD ); ?>') {this.value = '';}" onblur="if (this.value == '') {this.value = '<?php _e( 'What are you looking for?', APP_TD ); ?>';}" <?php } ?> />
+						<input name="s" type="text" id="s" tabindex="1" class="editbox_search" style="<?php cp_display_style( 'search_field_width' ); ?>" <?php if ( get_search_query() ) { echo 'value="'.trim(strip_tags(esc_attr(get_search_query()))).'"'; } else { ?> value="<?php _e( 'Enter ISBN # Of The Book You Want', APP_TD ); ?>" onfocus="if (this.value == '<?php _e( 'Enter ISBN # Of The Book You Want', APP_TD ); ?>') {this.value = '';}" onblur="if (this.value == '') {this.value = '<?php _e( 'Enter ISBN # Of The Book You Want', APP_TD ); ?>';}" <?php } ?> />
 
 					</div>
 

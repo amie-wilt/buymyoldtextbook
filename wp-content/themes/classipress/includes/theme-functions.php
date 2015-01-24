@@ -327,7 +327,7 @@ function cp_get_search_term() {
 	$search_term = get_query_var('s');
 
 	if ( empty($search_term) )
-		$search_term = __( 'What are you looking for?', APP_TD );
+		$search_term = __( 'Enter ISBN # Of The Book You Want', APP_TD );
 
 	return $search_term;
 }
@@ -1868,7 +1868,7 @@ function custom_search_where( $where ) {
 
 		$var_q = stripslashes( $_GET['s'] );
 		//empty the s parameter if set to default search text
-		if ( __( 'What are you looking for?', APP_TD ) == $var_q )
+		if ( __( 'Enter ISBN # Of The Book You Want', APP_TD ) == $var_q )
 			$var_q = '';
 
 		if ( isset( $_GET['sentence'] ) || $var_q == '' ) {
