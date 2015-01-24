@@ -321,7 +321,7 @@ select#scat.searchbar option.level-0 {padding:0px; font-weight:normal;}
 .searchblock .form_search input#s:focus{background-color:#FFFFFF;border:1px solid #999999;}
 .searchblock .form_search input#where{width:165px;margin-bottom:7px; border:1px solid #BBB; color:#4F4F4F; padding:11px; background: url("images/editbox_bg.gif") repeat-x scroll center top #FFFFFF;-khtml-border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; border-radius: 6px;}
 #searchform .searchfield {float:left;margin-right:5px;white-space: nowrap;}
-#searchform .searchbutcat {float:right;}
+#searchform .searchbutcat {float:left;}
 .searchblock select#scat.postform{margin-bottom:7px; border:1px solid #BBB; min-height:15px; width:155px; padding:11px;background: url("images/editbox_bg.gif") repeat-x scroll center top;}
 .searchblock select#where.postform{margin-bottom:7px; border:1px solid #BBB; min-height:15px; width:120px; padding:5px;}
 .searchblock button.btn{margin:0;}

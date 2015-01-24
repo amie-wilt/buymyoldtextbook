@@ -52,7 +52,7 @@ if ( is_page_template( 'tpl-ads-home.php' ) || is_search() || is_404() || is_tax
 
 						<button class="btn-topsearch" type="submit" tabindex="3" title="<?php _e( 'Search Ads', APP_TD ); ?>" id="go" value="search" name="sa"><?php _e( 'Search Ads', APP_TD ); ?></button>
 
-						<?php wp_dropdown_categories( $args ); ?>
+
 
 					</div>
 
