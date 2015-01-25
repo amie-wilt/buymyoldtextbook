@@ -9,7 +9,6 @@
 		$display_user_name = cp_get_user_name();
 ?>
 
-git
 
 	<?php } ?>
 
