@@ -26,7 +26,7 @@ function appthemes_recaptcha() {
 	// <![CDATA[
 		var RecaptchaOptions = {
 			custom_translations : {
-				instructions_visual : "<?php _e( 'Type the two words:', APP_TD ); ?>",
+				instructions_visual : "<?php _e( 'Write what you see:', APP_TD ); ?>",
 				instructions_audio : "<?php _e( 'Type what you hear:', APP_TD ); ?>",
 				play_again : "<?php _e( 'Play sound again', APP_TD ); ?>",
 				cant_hear_this : "<?php _e( 'Download sound as MP3', APP_TD ); ?>",

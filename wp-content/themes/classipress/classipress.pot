@@ -1576,7 +1576,7 @@ msgid "Complete the fields below to register."
 msgstr ""
 
 #: includes/appthemes-functions.php:29
-msgid "Type the two words:"
+msgid "Write what you see:"
 msgstr ""
 
 #: includes/appthemes-functions.php:30

@@ -78,25 +78,7 @@
 
 		<!-- no dynamic sidebar setup -->
 
-<!--		<div class="shadowblock_out">
 
-			<div class="shadowblock">
-
-				<h2 class="dotted"><?php _e( 'Meta', APP_TD ); ?></h2>
-
-				<ul>
-					<?php wp_register(); ?>
-					<li><?php wp_loginout(); ?></li>
-					<li><a target="_blank" href="http://www.appthemes.com/" title="Premium WordPress Themes">AppThemes</a></li>
-					<li><a target="_blank" href="http://wordpress.org/" title="Powered by WordPress">WordPress</a></li>
-					<?php wp_meta(); ?>
-				</ul>
-
-				<div class="clr"></div>
-
-			</div><!-- /shadowblock -->
-
-		</div><!-- /shadowblock_out --> -->
 
 	<?php endif; ?>
 
