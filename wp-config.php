@@ -19,13 +19,13 @@
 define('DB_NAME', 'wrd_je2i3dgcef');
 
 /** MySQL database username */
-define('DB_USER', 'wrd2DcXtLDt');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'gpas11Ru6U');
+define('DB_PASSWORD', 'root');
 
 /** MySQL hostname */
-define('DB_HOST', 'gatorkern.fatcowmysql.com');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');

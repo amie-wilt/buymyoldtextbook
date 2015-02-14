@@ -57,7 +57,7 @@
 		</div>
 
 	</div><!-- end tabs -->
-	
+
 
     <?php appthemes_before_sidebar_widgets(); ?>
 
@@ -66,8 +66,9 @@
 	<!-- no dynamic sidebar so don't do anything -->
 
 	<?php endif; ?>
-	
+
 	<?php appthemes_after_sidebar_widgets(); ?>
 
 
 </div><!-- /content_right -->
+

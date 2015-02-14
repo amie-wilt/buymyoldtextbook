@@ -78,7 +78,7 @@
 
 		<!-- no dynamic sidebar setup -->
 
-		<div class="shadowblock_out">
+<!--		<div class="shadowblock_out">
 
 			<div class="shadowblock">
 
@@ -96,7 +96,7 @@
 
 			</div><!-- /shadowblock -->
 
-		</div><!-- /shadowblock_out -->
+		</div><!-- /shadowblock_out --> -->
 
 	<?php endif; ?>
 
