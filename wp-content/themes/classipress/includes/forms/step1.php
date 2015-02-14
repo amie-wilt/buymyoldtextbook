@@ -128,10 +128,10 @@ $change_cat_url = add_query_arg( array( 'action' => 'change' ) );
 
 		<ol>
 
-			<li>
+			<!-- <li>
 				<div class="labelwrapper"><label><?php _e( 'Category:', APP_TD ); ?></label></div>
 				<strong><?php echo $category->name; ?></strong>&nbsp;&nbsp;<small><a href="<?php echo $change_cat_url; ?>"><?php _e( '(change)', APP_TD ); ?></a></small>
-			</li>
+			</li> -->
 
 			<?php
 				$renew_id = ( isset( $_GET['renew'] ) ) ? $_GET['renew'] : false;
